@@ -153,42 +153,6 @@ mid-nav img{
     transition: translate(50%,50%);
     text-align: center;
 }
-.sniffer{
-    width: 90%;
-    color: #444;
-    position: absolute;
-    top: 92.5%;
-    left: 27%;
-    transition: translate(50%,50%);
-    text-align: center;
-}
-.management1{
-    width: 90%;
-    color: #444;
-    position: absolute;
-    top: 95%;
-    left: 27%;
-    transition: translate(50%,50%);
-    text-align: center;
-}
-.lefteye{
-    width: 90%;
-    color: #444;
-    position: absolute;
-    top: 92.5%;
-    left: -17.5%;
-    transition: translate(50%,50%);
-    text-align: center;
-}
-.management2{
-    width: 90%;
-    color: #444;
-    position: absolute;
-    top: 95%;
-    left: -17.5%;
-    transition: translate(50%,50%);
-    text-align: center;
-}
 .text-box h1{
     font-size: 60px;
 }
@@ -196,13 +160,4 @@ mid-nav img{
     margin: 10px 0 40px;
     font-size: 14px;
     color: #444;
-}
-.video{
-    width: 90%;
-    color: #444;
-    position: absolute;
-    top: 95%;
-    left: -17.5%;
-    transition: translate(50%,50%);
-    text-align: center;
 }

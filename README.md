@@ -1,7 +1,10 @@
 <h1 align="center">ChipChip.club Community</h1>
 
 ## Description
-We used this website from mid 2021 to 2022 Aug
+We used this website from mid 2021 to 2022 Aug. Just a headsup its not the best code feel free to contribute to the project.
+
+## Usage
+Just slap that shit in ur public_html and you are good to go.
 
 ## Bugs and Suggestions
 Bug reports and suggestions should be made in this repo's [issue tracker](https://github.com/Revolutionno/chipchip-site-1.0/issues) using the templates provided. Please provide as much information as you can to best help us understand your issue and give a better chance of it being resolved.

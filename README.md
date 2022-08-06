@@ -1,4 +1,4 @@
-<h1 align="center">ChipChip Community</h1>
+<h1 align="center">ChipChip.club Community</h1>
 
 ## Description
 We used this website from mid 2021 to 2022 Aug

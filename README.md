@@ -1,6 +1,10 @@
-# chipchip-site-1.0
-ChipChip.club website used from 2021 to 2022-08-06
+<h1 align="center">ChipChip Community</h1>
 
+## Description
+We used this website from mid 2021 to 2022 Aug
+
+## Bugs and Suggestions
+Bug reports and suggestions should be made in this repo's [issue tracker](https://github.com/Revolutionno/chipchip-site-1.0/issues) using the templates provided. Please provide as much information as you can to best help us understand your issue and give a better chance of it being resolved.
 
 ## Licensing
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). 
